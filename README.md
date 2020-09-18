@@ -1,4 +1,4 @@
-[Download Plugin](https://github.com/brunoksi/brs-schema-registry-request-filter-plugin/releases/download/v.1.0/schema-registry-request-filter-plugin-1.0.0.jar)
+[Download Plugin](https://github.com/brunoksi/brs-schema-registry-request-filter-plugin/releases/download/v1.0.0/schema-registry-request-filter-plugin-1.0.0.jar)
 
 # Contexto de utilização
 
@@ -10,7 +10,7 @@ O puglin tem o objetivo de bloquear o acesso qualquer recurso que não seja de l
 
 ## Como configurar o plugin
 
-Para usar o puglin, primeiro copiar o [extension jar](https://github.com/brunoksi/brs-schema-registry-request-filter-plugin/releases/download/v.1.0/schema-registry-request-filter-plugin-1.0.0.jar) para /usr/share/java/schema-registry. 
+Para usar o puglin, primeiro copiar o [extension jar](https://github.com/brunoksi/brs-schema-registry-request-filter-plugin/releases/download/v1.0.0/schema-registry-request-filter-plugin-1.0.0.jar) para /usr/share/java/schema-registry. 
 
 O próximo passo é habilitar a autenticação tls no schema registry adicionando algumas configurações no arquivo /etc/schema-registry/schema-registry.properties: caso não saiba como fazer isso, acesse https://docs.confluent.io/current/schema-registry/security/index.html 
 

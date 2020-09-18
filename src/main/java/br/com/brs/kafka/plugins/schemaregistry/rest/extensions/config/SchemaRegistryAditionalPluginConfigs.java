@@ -1,3 +1,7 @@
+/*
+ * Copyright 2020 brunoksi.
+ *
+*/
 package br.com.brs.kafka.plugins.schemaregistry.rest.extensions.config;
 
 import io.confluent.kafka.schemaregistry.rest.SchemaRegistryConfig;
